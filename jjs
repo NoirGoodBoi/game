@@ -1,3 +1,4 @@
 task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NoirGoodBoi/NoirScripts/main/CD"))() end)
 task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Loader-DesconhecidoJ/AkaYsn/refs/heads/main/LockOn.lua"))() end)
 task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NoirGoodBoi/NoirGui/main/perf"))() end)
+task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NoirGoodBoi/NoirScripts/main/SilentAim.lua"))() end)
